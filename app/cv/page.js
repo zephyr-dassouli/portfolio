@@ -14,10 +14,19 @@ export default function CV() {
   // Professional experiences data
   const experiences = [
     {
+      id: 6,
+      title: "IT Intern",
+      company: "PSCORE",
+      period: "Mar 2025 - Jul 2025",
+      location: "Seoul, South Korea",
+      description: "UN-affiliated NGO specializing in the protection of North Korean human rights. Conducted cybersecurity monitoring of cyber threats and helped protect North Korean refugees against offensive activities carried out by North Korean state-sponsored organizations.",
+      skills: ["Cybersecurity", "Geopolitics", "Human Rights"]
+    },
+    {
       id: 5,
       title: "Consulting Intern",
       company: "SQLI",
-      period: "Sep 2025 - Current",
+      period: "Sep 2025 - Feb 2025",
       location: "Toulouse, France",
       description: "Internship within SQLI’s consulting team. R&D activities and client support on innovation projects. Design, development, and deployment of generative AI solutions.",
       skills: ["Consulting", "AI/ML", "Architecture"]
